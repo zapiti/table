@@ -1,0 +1,16 @@
+PODS:
+  - SwiftDataTables (0.6.31)
+
+DEPENDENCIES:
+  - SwiftDataTables
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftDataTables
+
+SPEC CHECKSUMS:
+  SwiftDataTables: 3b38580f5638b6eb80f5a0eafba0e9ebe99294cb
+
+PODFILE CHECKSUM: cf882a0fd9c46838b4fa6ab266aeb9b33ee4f9f8
+
+COCOAPODS: 1.5.3
